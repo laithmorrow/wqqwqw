@@ -1,0 +1,1 @@
+FROM sercanzor/mynew:latest
